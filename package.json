@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-homework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shvyrkova-maria/nodejs-homework-1.git"
+  },
+  "keywords": [],
+  "author": "Maria Shvyrkova<mma031086@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shvyrkova-maria/nodejs-homework-1/issues"
+  },
+  "homepage": "https://github.com/shvyrkova-maria/nodejs-homework-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
