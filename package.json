@@ -20,5 +20,8 @@
   "homepage": "https://github.com/shvyrkova-maria/nodejs-homework-1#readme",
   "devDependencies": {
     "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "commander": "^8.1.0"
   }
 }
